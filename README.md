@@ -1,1 +1,1 @@
-# cool-java-project
+Shows my polymorphism skills
